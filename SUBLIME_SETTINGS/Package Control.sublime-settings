@@ -1,0 +1,45 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"10% Too Dull for My Tastes Color Scheme",
+		"1Self",
+		"A File Icon",
+		"AdvancedNewFile",
+		"Anaconda",
+		"Django",
+		"Django Lookup Snippets",
+		"Django Starter",
+		"Django Tags",
+		"Django-Rest-Snippets",
+		"Emmet",
+		"Emmet Css Snippets",
+		"Flask Starter",
+		"GitGutter",
+		"MagicPython",
+		"MarkdownPreview",
+		"More Python Completions",
+		"One Dark Material - Theme",
+		"Package Control",
+		"Python 3",
+		"Python Breakpoints",
+		"PythonNiceToHaveFeatures",
+		"ReactJS",
+		"ReactJS Snippets",
+		"requirementstxt",
+		"Sass",
+		"SASS Snippets",
+		"SideBarEnhancements",
+		"StandardFormat",
+		"SublimeLinter-contrib-mypy",
+		"SublimeLinter-contrib-standard",
+		"SublimeLinter-flake8",
+		"SublimeLinter-pylint",
+		"Theme - Brogrammer",
+		"Theme - LevelUpTuts",
+		"Vue Syntax Highlight"
+	]
+}
